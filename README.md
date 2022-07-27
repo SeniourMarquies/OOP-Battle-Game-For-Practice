@@ -1,2 +1,2 @@
 # OOP-Battle
-C# oop practice to practice OOP.
+C# OOP PRACTICE... A detailed and complex roguelike game that is written via C# will come soon.... Maybe...
